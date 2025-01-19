@@ -1,0 +1,3 @@
+/Users/vadimzenin/ДЗшки/АВС/ИДЗ - 4. 28 вариант/cmake-build-debug/CMakeFiles/___4__28_.dir
+/Users/vadimzenin/ДЗшки/АВС/ИДЗ - 4. 28 вариант/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vadimzenin/ДЗшки/АВС/ИДЗ - 4. 28 вариант/cmake-build-debug/CMakeFiles/rebuild_cache.dir
